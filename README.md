@@ -2,6 +2,7 @@
 
 Rapid Resume is an innovative MERN stack project that streamlines the resume creation and management process. It provides a user-friendly interface for creating and updating resumes in real-time. The application implements JWT authentication for secure access and also offers Google Sign-In for user convenience.
 
+Website is Live - https://white-beach-0db7ba000.3.azurestaticapps.net
 ## Features
 
 - Create and manage resumes with ease.
@@ -24,4 +25,4 @@ Rapid Resume is an innovative MERN stack project that streamlines the resume cre
 
 ```bash
 git clone https://github.com/your-username/RapidResume.git
-cd RapidResume
+cd frontend
