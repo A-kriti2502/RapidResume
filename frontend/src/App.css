@@ -1,0 +1,8 @@
+/* write your css here */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Dancing+Script&display=swap');
+body{
+    background-color: #001C30;
+}
+.newfont{
+    font-family: 'Dancing Script', cursive;
+}
