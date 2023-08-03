@@ -62,7 +62,7 @@ const Navbar = (props) => {
               <Link to="/">
                 <button className='text-richblack-100 py-[8px] text-white
                     px-[12px] border-richblack-700 hover:text-red-400 hover:scale-125 duration-200'>
-                        Templates
+                        {/* Templates */}
                 </button>
               </Link>
             </li>
@@ -70,7 +70,7 @@ const Navbar = (props) => {
               <Link to="/">
                 <button className='text-richblack-100 py-[8px] text-white
                     px-[12px] border-richblack-700 hover:text-red-400 hover:scale-125 duration-200'>
-                        Resume Examples
+                        {/* Resume Examples */}
                 </button>
               </Link>
             </li>
