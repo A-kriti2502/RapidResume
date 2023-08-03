@@ -26,12 +26,7 @@ const features = [
   },
 ];
 const members = [
-  {
-    id:2,
-    name:"Shreyansh",
-    title:"Frontend",
-    github:"https://github.com/A-kriti2502",
-  },
+  
   {
     id:1,
     name:"Aakriti",
@@ -39,19 +34,19 @@ const members = [
     github:"https://github.com/A-kriti2502",
   },
   {
-    id:3,
+    id:2,
     name:"Aahna",
     title:"Backend",
     github:"https://github.com/A-kriti2502",
   },
   {
-    id:4,
+    id:3,
     name:"Anshul",
     title:"Backend",
     github:"https://github.com/A-kriti2502",
   },
   {
-    id:5,
+    id:4,
     name:"Gaurav",
     title:"Backend",
     github:"https://github.com/A-kriti2502",
